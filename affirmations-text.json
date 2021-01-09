@@ -1,0 +1,34 @@
+{
+    "lastUpdated": "2021-01-08-23:11",
+	"appearance": {
+		"strings": [
+			"You look great today!",
+			"You are radiating good vibes.",
+			"Is that a new shirt?",
+			"You look amazing!",
+			"Absolutely killing it."]
+	},
+	"goals": {
+		"strings": [
+			"You can do it!",
+			"You have the strength to accomplish your goals.",
+			"The day is yours!",
+			"You are going to do great.",
+			"You have what it takes.",
+			"So many people believe in you."]
+	},
+	"personal": {
+		"strings": [
+			"You are enough.",
+			"You are loved.",
+			"You deserve to be here.",
+			"The world is a better place because of you.",
+			"I think you are amazing."]
+	},
+    "politics": {
+        "strings": [
+            "It's ok to turn off the news for a bit.",
+            "You don't have to constantly be listening."
+        ]
+    }
+}
