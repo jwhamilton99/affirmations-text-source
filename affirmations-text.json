@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-01-09-00:03",
+    "lastUpdated": "2021-01-11-18:37",
 	"appearance": {
 		"strings": [
 			"You look great today!",
@@ -29,7 +29,7 @@
     "politics": {
         "strings": [
             "It's ok to turn off the news for a bit.",
-            "You don't have to constantly be listening."
+            "You don't have to constantly be listening to the world."
         ]
     }
 }
