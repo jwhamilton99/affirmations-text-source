@@ -32,4 +32,10 @@
             "You don't have to constantly be listening to the world."
         ]
     }
+	"test section": {
+		"strings": [
+			"This is a test section to see if it works.",
+			"Hello there!"
+		]
+	}
 }
