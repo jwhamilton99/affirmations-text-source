@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-01-16-23:44",
+    "lastUpdated": "2021-01-17-13:14",
 	"appearance": {
 		"strings": [
 			"You look great today!",
@@ -31,12 +31,5 @@
             "It's ok to turn off the news for a bit.",
             "You don't have to constantly be listening to the world."
         ]
-    },
-	"test section": {
-		"strings": [
-			"This is a test to see if sections work.",
-			"This is another test.",
-			"Hello there!"
-		]
-	}
+    }
 }
