@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-01-17-13:14",
+    "lastUpdated": "2021-01-19-19:48",
 	"appearance": {
 		"strings": [
 			"You look great today!",
@@ -7,7 +7,8 @@
 			"Is that a new shirt?",
 			"You look amazing!",
 			"Absolutely killing it.",
-			"Did you get a haircut? Looks great!"]
+			"Did you get a haircut? Looks great!"
+		]
 	},
 	"goals": {
 		"strings": [
@@ -16,7 +17,8 @@
 			"The day is yours!",
 			"You are going to do great.",
 			"You have what it takes.",
-			"So many people believe in you."]
+			"So many people believe in you."
+		]
 	},
 	"personal": {
 		"strings": [
@@ -24,12 +26,27 @@
 			"You are loved.",
 			"You deserve to be here.",
 			"The world is a better place because of you.",
-			"I think you are amazing."]
+			"I think you are amazing."
+		]
 	},
-    "politics": {
-        "strings": [
-            "It's ok to turn off the news for a bit.",
-            "You don't have to constantly be listening to the world."
-        ]
-    }
+	"politics": {
+		"strings": [
+			"It's ok to turn off the news for a bit.",
+			"You don't have to constantly be listening to the world.",
+			"The might suck right now, but you don't."
+		]
+	},
+	"covid": {
+		"strings": [
+			"I am so glad you're wearing a mask.",
+			"You will be able to see your loved ones again soon."
+		]
+	},
+	"projects": {
+		"strings": [
+			"You are doing great work.",
+			"Your creativity is fantastic.",
+			"People are going to love what you create."
+		]
+	}
 }
