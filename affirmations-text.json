@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-01-22-22:33",
+    "lastUpdated": "2021-01-30-22:39",
 	"appearance": {
 		"strings": [
 			"You look great today!",
@@ -34,7 +34,6 @@
 			"It's ok to turn off the news for a bit.",
 			"You don't have to constantly be listening to the world.",
 			"The world might suck right now, but you don't.",
-			"The world is slightly better now.",
 			"You have the power to change things."
 		]
 	},
@@ -49,6 +48,12 @@
 			"You are doing great work.",
 			"Your creativity is fantastic.",
 			"People are going to love what you create."
+		]
+	},
+	"timely": {
+		"strings": [
+			"This is the perfect weather to curl up under a blanket.",
+			"It's sweatpants and flannel weather!"
 		]
 	}
 }
