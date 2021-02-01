@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-01-30-22:39",
+    "lastUpdated": "2021-02-01-12:36",
 	"appearance": {
 		"strings": [
 			"You look great today!",
@@ -7,7 +7,9 @@
 			"Is that a new shirt?",
 			"You look amazing!",
 			"Absolutely killing it.",
-			"Did you get a haircut? Looks great!"
+			"Did you get a haircut? Looks great!",
+			"You look very cute today!",
+			"Your outfit is stunning."
 		]
 	},
 	"goals": {
@@ -17,7 +19,8 @@
 			"The day is yours!",
 			"You are going to do great.",
 			"You have what it takes.",
-			"So many people believe in you."
+			"So many people believe in you.",
+			"We're all rooting for you."
 		]
 	},
 	"personal": {
@@ -26,21 +29,28 @@
 			"You are loved.",
 			"You deserve to be here.",
 			"The world is a better place because of you.",
-			"I think you are amazing."
+			"I think you are amazing.",
+			"Everything is going to turn out ok."
 		]
 	},
-	"politics": {
+	"mental health": {
+		"strings": [
+			"Your thoughts don't define who you are.",
+			"Remember to take your meds today!",
+			"Take a moment and just breathe.",
+			"Take a breath. Unclench your jaw. Relax your shoulders.",
+			"It's ok to take a day off from everything."
+		]
+	},
+	"current events": {
 		"strings": [
 			"It's ok to turn off the news for a bit.",
 			"You don't have to constantly be listening to the world.",
 			"The world might suck right now, but you don't.",
-			"You have the power to change things."
-		]
-	},
-	"covid": {
-		"strings": [
+			"You have the power to change things.",
 			"I am so glad you're wearing a mask.",
-			"You will be able to see your loved ones again soon."
+			"You will be able to see your loved ones again soon.",
+			"It's ok to close Twitter."
 		]
 	},
 	"projects": {
