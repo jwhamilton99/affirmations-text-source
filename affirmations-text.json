@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-02-01-12:36",
+    "lastUpdated": "2021-02-08-00:17",
 	"appearance": {
 		"strings": [
 			"You look great today!",
@@ -39,7 +39,8 @@
 			"Remember to take your meds today!",
 			"Take a moment and just breathe.",
 			"Take a breath. Unclench your jaw. Relax your shoulders.",
-			"It's ok to take a day off from everything."
+			"It's ok to take a day off from everything.",
+			"The world needs you."
 		]
 	},
 	"current events": {
@@ -57,13 +58,15 @@
 		"strings": [
 			"You are doing great work.",
 			"Your creativity is fantastic.",
-			"People are going to love what you create."
+			"People are going to love what you create.",
+			"You have so much to work toward."
 		]
 	},
 	"timely": {
 		"strings": [
 			"This is the perfect weather to curl up under a blanket.",
-			"It's sweatpants and flannel weather!"
+			"Remember to stay warm in this cold weather.",
+			"A nice cup of coffee is a great way to stay warm in this weather."
 		]
 	}
 }
