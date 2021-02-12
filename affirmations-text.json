@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-02-10-12:02",
+    "lastUpdated": "2021-02-12-15:25",
 	"appearance": {
 		"strings": [
 			"You look great today!",
@@ -21,7 +21,9 @@
 			"You are going to do great.",
 			"You have what it takes.",
 			"So many people believe in you.",
-			"We're all rooting for you."
+			"We're all rooting for you.",
+			"I believe in you.",
+			"I can't wait to see what you do."
 		]
 	},
 	"personal": {
@@ -31,7 +33,9 @@
 			"You deserve to be here.",
 			"The world is a better place because of you.",
 			"I think you are amazing.",
-			"Everything is going to turn out ok."
+			"Everything is going to turn out ok.",
+			"It feels so good to tell a friend you love them.",
+			"Take a second and appreciate your loved ones."
 		]
 	},
 	"mental health": {
@@ -52,7 +56,8 @@
 			"You have the power to change things.",
 			"I am so glad you're wearing a mask.",
 			"You will be able to see your loved ones again soon.",
-			"It's ok to close Twitter."
+			"It's ok to close Twitter.",
+			"There is so much beauty in the world."
 		]
 	},
 	"projects": {
@@ -60,14 +65,17 @@
 			"You are doing great work.",
 			"Your creativity is fantastic.",
 			"People are going to love what you create.",
-			"You have so much to work toward."
+			"You have so much to work toward.",
+			"I am so proud of the progress you've made."
 		]
 	},
 	"timely": {
 		"strings": [
 			"This is the perfect weather to curl up under a blanket.",
 			"Remember to stay warm in this cold weather.",
-			"A nice cup of coffee is a great way to stay warm in this weather."
+			"A nice cup of coffee is a great way to stay warm in this weather.",
+			"Take a second and appreciate this weather.",
+			"The snow is so beautiful."
 		]
 	}
 }
