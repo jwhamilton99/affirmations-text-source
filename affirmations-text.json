@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-02-12-15:25",
+    "lastUpdated": "2021-02-13-21:50",
 	"appearance": {
 		"strings": [
 			"You look great today!",
@@ -77,5 +77,11 @@
 			"Take a second and appreciate this weather.",
 			"The snow is so beautiful."
 		]
+	},
+	"test": {
+		"strings": [
+			"This is a test. Please disregard."
+		],
+		"onlyShowOn": "2021-02-14"
 	}
 }
