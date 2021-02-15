@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-02-14-15:10",
+    "lastUpdated": "2021-02-14-23:38",
 	"appearance": {
 		"strings": [
 			"You look great today!",
@@ -78,13 +78,20 @@
 			"The snow is so beautiful."
 		]
 	},
-	"valentine's": {
+	"valentine\'s": {
 		"strings": [
 			"Happy Valentine's Day!",
 			"You are loved by so many people.",
 			"Can I be your valentine?"
 		],
 		"onlyShowOn":"2021-02-14"
+	},
+	"test": {
+		"strings": [
+			"This is a test. Please disregard."
+		],
+		"onlyShowOn": "2021-02-14",
+		"onlyShowUntil": "2021-02-15"
 	}
 	
 }
