@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-02-17-13:11",
+    "lastUpdated": "2021-02-18-15:54",
 	"appearance": {
 		"strings": [
 			"You look great today!",
@@ -69,21 +69,32 @@
 			"I am so proud of the progress you've made."
 		]
 	},
-	"timely": {
+	"winter": {
 		"strings": [
 			"This is the perfect weather to curl up under a blanket.",
 			"Remember to stay warm in this cold weather.",
 			"A nice cup of coffee is a great way to stay warm in this weather.",
 			"Take a second and appreciate this weather.",
 			"The snow is so beautiful."
-		]
+		],
+		"onlyShowOn": "2021-02-01",
+		"onlyShowUntil": "2021-03-21"
+	},
+	"spring equinox": {
+		"strings": [
+			"Happy Equinox!",
+			"Happy first day of spring!",
+			"Trees and flowers will start to bloom soon.",
+			"Enjoy this warmer weather."
+		],
+		"onlyShowOn":"2021-03-21"
 	},
 	"test": {
 		"strings": [
 			"This is a test. Please disregard."
 		],
 		"onlyShowOn": "2021-02-17",
-		"onlyShowUntil": "2021-02-20"
+		"onlyShowUntil": "2021-02-18"
 	}
 	
 }
