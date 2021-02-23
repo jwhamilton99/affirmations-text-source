@@ -88,13 +88,5 @@
 			"Enjoy this warmer weather."
 		],
 		"onlyShowOn":"2021-03-21"
-	},
-	"test": {
-		"strings": [
-			"This is a test. Please disregard."
-		],
-		"onlyShowOn": "2021-02-17",
-		"onlyShowUntil": "2021-02-18"
 	}
-	
 }
