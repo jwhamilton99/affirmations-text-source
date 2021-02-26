@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-02-23-14:36",
+    "lastUpdated": "2021-02-26-10:14",
 	"appearance": {
 		"strings": [
 			"You look great today!",
@@ -10,7 +10,8 @@
 			"Did you get a haircut? Looks great!",
 			"You look very cute today!",
 			"Your outfit is stunning.",
-			"You have an amazing smile."
+			"You have an amazing smile.",
+			"You look beautiful today."
 		]
 	},
 	"goals": {
@@ -35,7 +36,8 @@
 			"I think you are amazing.",
 			"Everything is going to turn out ok.",
 			"It feels so good to tell a friend you love them.",
-			"Take a second and appreciate your loved ones."
+			"Take a second and appreciate your loved ones.",
+			"Your laugh is such a great sound."
 		]
 	},
 	"mental health": {
@@ -45,7 +47,10 @@
 			"Take a moment and just breathe.",
 			"Take a breath. Unclench your jaw. Relax your shoulders.",
 			"It's ok to take a day off from everything.",
-			"The world needs you."
+			"The world needs you.",
+			"Let yourself feel the kindness you give to others.",
+			"You are worth happiness.",
+			"Don't forget how amazing you are."
 		]
 	},
 	"current events": {
@@ -76,6 +81,7 @@
 			"A nice cup of coffee is a great way to stay warm in this weather.",
 			"Take a second and appreciate this weather.",
 			"The snow is so beautiful."
+			
 		],
 		"onlyShowOn": "2021-02-01",
 		"onlyShowUntil": "2021-03-21"
@@ -87,6 +93,6 @@
 			"Trees and flowers will start to bloom soon.",
 			"Enjoy this warmer weather."
 		],
-		"onlyShowOn":"2021-03-21"
+		"onlyShowOn":"2021-03-20"
 	}
 }
