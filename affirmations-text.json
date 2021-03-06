@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-02-26-10:14",
+    "lastUpdated": "2021-03-05-20:22",
 	"appearance": {
 		"strings": [
 			"You look great today!",
@@ -7,7 +7,7 @@
 			"Is that a new shirt?",
 			"You look amazing!",
 			"Absolutely killing it.",
-			"Did you get a haircut? Looks great!",
+			"I love the way you styled yourself today.",
 			"You look very cute today!",
 			"Your outfit is stunning.",
 			"You have an amazing smile.",
@@ -50,7 +50,8 @@
 			"The world needs you.",
 			"Let yourself feel the kindness you give to others.",
 			"You are worth happiness.",
-			"Don't forget how amazing you are."
+			"Don't forget how amazing you are.",
+			"Your feelings are valid."
 		]
 	},
 	"current events": {
