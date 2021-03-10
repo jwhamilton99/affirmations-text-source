@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-03-05-20:22",
+    "lastUpdated": "2021-03-10-09:11",
 	"appearance": {
 		"strings": [
 			"You look great today!",
@@ -77,15 +77,14 @@
 	},
 	"winter": {
 		"strings": [
-			"This is the perfect weather to curl up under a blanket.",
-			"Remember to stay warm in this cold weather.",
 			"A nice cup of coffee is a great way to stay warm in this weather.",
-			"Take a second and appreciate this weather.",
-			"The snow is so beautiful."
+			"Winter is on its way out, and warmer weather is on its way.",
+			"Snow doesn't last forever, which makes it more special.",
+			"Leaves will be back on the trees soon."
 			
 		],
 		"onlyShowOn": "2021-02-01",
-		"onlyShowUntil": "2021-03-21"
+		"onlyShowUntil": "2021-03-20"
 	},
 	"spring equinox": {
 		"strings": [
