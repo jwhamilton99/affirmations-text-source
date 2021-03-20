@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-03-20-12:06",
+    "lastUpdated": "2021-03-20-12:14",
 	"appearance": {
 		"strings": [
 			"You look great today!",
@@ -84,7 +84,7 @@
 			
 		],
 		"onlyShowOn": "2021-02-01",
-		"onlyShowUntil": "2021-03-20"
+		"onlyShowUntil": "2021-03-19"
 	},
 	"spring equinox": {
 		"strings": [
