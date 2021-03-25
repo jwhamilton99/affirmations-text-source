@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-03-20-12:14",
+    "lastUpdated": "2021-03-25-13:05",
 	"appearance": {
 		"strings": [
 			"You look great today!",
@@ -11,7 +11,10 @@
 			"You look very cute today!",
 			"Your outfit is stunning.",
 			"You have an amazing smile.",
-			"You look beautiful today."
+			"You look beautiful today.",
+			"You are beautiful.",
+			"You are going to turn heads!",
+			"You belong on the cover of Vogue."
 		]
 	},
 	"goals": {
@@ -75,24 +78,14 @@
 			"I am so proud of the progress you've made."
 		]
 	},
-	"winter": {
+	"spring": {
 		"strings": [
-			"A nice cup of coffee is a great way to stay warm in this weather.",
-			"Winter is on its way out, and warmer weather is on its way.",
-			"Snow doesn't last forever, which makes it more special.",
-			"Leaves will be back on the trees soon."
-			
-		],
-		"onlyShowOn": "2021-02-01",
-		"onlyShowUntil": "2021-03-19"
-	},
-	"spring equinox": {
-		"strings": [
-			"Happy Equinox!",
-			"Happy first day of spring!",
+			"Welcome warmer weather!",
+			"The flowers are coming back.",
 			"Trees and flowers will start to bloom soon.",
-			"Enjoy this warmer weather."
-		],
-		"onlyShowOn":"2021-03-20"
+			"Enjoy this warmer weather.",
+			"Spring is in the air!",
+			"Open your windows and enjoy the fresh air."
+		]	
 	}
 }
