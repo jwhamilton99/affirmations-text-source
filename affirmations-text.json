@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-03-25-13:05",
+    "lastUpdated": "2021-04-23-00:20",
 	"appearance": {
 		"strings": [
 			"You look great today!",
@@ -14,7 +14,8 @@
 			"You look beautiful today.",
 			"You are beautiful.",
 			"You are going to turn heads!",
-			"You belong on the cover of Vogue."
+			"You belong on the cover of Vogue.",
+			"No matter how you express yourself, you are beautiful."
 		]
 	},
 	"goals": {
@@ -54,7 +55,9 @@
 			"Let yourself feel the kindness you give to others.",
 			"You are worth happiness.",
 			"Don't forget how amazing you are.",
-			"Your feelings are valid."
+			"Your feelings are valid.",
+			"You are strong enough.",
+			"Things may seem hard, but you are going to get through it."
 		]
 	},
 	"current events": {
@@ -66,7 +69,8 @@
 			"I am so glad you're wearing a mask.",
 			"You will be able to see your loved ones again soon.",
 			"It's ok to close Twitter.",
-			"There is so much beauty in the world."
+			"There is so much beauty in the world.",
+			"Try not to hyperfocus on the negativity in the news."
 		]
 	},
 	"projects": {
@@ -82,10 +86,11 @@
 		"strings": [
 			"Welcome warmer weather!",
 			"The flowers are coming back.",
-			"Trees and flowers will start to bloom soon.",
+			"Trees and flowers are blooming.",
 			"Enjoy this warmer weather.",
 			"Spring is in the air!",
-			"Open your windows and enjoy the fresh air."
+			"Open your windows and enjoy the fresh air.",
+			"Spring air smells so nice."
 		]	
 	}
 }
