@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-04-28-00:31",
+    "lastUpdated": "2021-05-21-18:50",
 	"appearance": {
 		"strings": [
 			"You look great today!",
@@ -18,7 +18,14 @@
 			"No matter how you express yourself, you are beautiful.",
 			"You have impeccable taste.",
 			"Your style is so unique.",
-			"I wish I had your style."
+			"I wish I had your style.",
+			"You are beautiful.",
+			"You are a beautiful person.",
+			"Your smile is so warm and inviting.",
+			"I love the way you dress.",
+			"I wish I had your style.",
+			"You have such a lovely smile.",
+			"Your smile lights up my day."
 		]
 	},
 	"goals": {
@@ -33,7 +40,15 @@
 			"I believe in you.",
 			"I can't wait to see what you do.",
 			"You are constantly evolving.",
-			"Criticism is the gateway to progress."
+			"Criticism is the gateway to progress.",
+			"I am so proud of you.",
+			"I believe in you.",
+			"I believe in you! You can do it!",
+			"You are going to do great things.",
+			"You can do it! You're strong enough!",
+			"You have a lot to be proud of.",
+			"You are going to do great things in life.",
+			"You are so creative and talented!"
 		]
 	},
 	"personal": {
@@ -67,7 +82,29 @@
 			"Take some time to appreciate the little things in the world.",
 			"Looking at nature is a great way to appreciate the world.",
 			"You are one-in-a-million.",
-			"You are so unique."
+			"You are so unique.",
+			"You are a great friend.",
+			"You are so thoughtful.",
+			"You are a great listener.",
+			"Your advice is always on point.",
+			"You are loved by so many people.",
+			"Your voice is important.",
+			"Keep speaking up. Your voice matters!",
+			"Your voice is important.",
+			"Keep fighting for what you believe in!",
+			"Thank you for all the things you do.",
+			"You are a wonderful person.",
+			"I am so grateful to know you.",
+			"Every day is a chance to learn something new about yourself.",
+			"I love how you are always trying new things!",
+			"I am so proud of you for trying new things.",
+			"Try something new today",
+			"I love your laugh!",
+			"You have such a beautiful laugh.",
+			"Your laugh is infectious!",
+			"I want to hear you laugh more often.",
+			"You have such a great sense of adventure.",
+			"There is so much more out there for you to explore."
 		]
 	},
 	"mental health": {
@@ -88,7 +125,20 @@
 			"A clean room feels so nice.",
 			"Do you have any dishes or cups in your room? Take a second to bring them to the kitchen.",
 			"Remember to stay hydrated.",
-			"Take sip of water! Hydration is important."
+			"Take sip of water! Hydration is important.",
+			"It's ok to be sad sometimes.",
+			"Your happiness is important to me.",
+			"I want you to be happy.",
+			"You are going to be ok.",
+			"You deserve happiness.",
+			"Take a moment to appreciate the little things in life.",
+			"It's ok to take a break from everything sometimes.",
+			"Take some time to relax and recharge yourself.",
+			"Your feelings are valid no matter what they are.",
+			"You are so strong.",
+			"You are so brave.",
+			"Don't let the negativity get to you.",
+			"You deserve the best life has to offer."
 		]
 	},
 	"current events": {
@@ -110,18 +160,22 @@
 			"Your creativity is fantastic.",
 			"People are going to love what you create.",
 			"You have so much to work toward.",
-			"I am so proud of the progress you've made."
+			"I am so proud of the progress you've made.",
+			"Your work is so inspiring.",
+			"Your work is going to change the world.",
+			"Your work is beautiful!"
 		]
 	},
 	"spring": {
 		"strings": [
-			"Welcome warmer weather!",
-			"The flowers are coming back.",
-			"Trees and flowers are blooming.",
-			"Enjoy this warmer weather.",
 			"Spring is in the air!",
 			"Open your windows and enjoy the fresh air.",
-			"Spring air smells so nice."
-		]	
+			"Spring air smells so nice.",
+			"It's a beautiful day.",
+			"Enjoy the beautiful weather!",
+			"The sunlight feels so good.",
+			"Take a walk outside and enjoy the fresh air."
+		],
+		"onlyShowUntil":"2021-06-20"
 	}
 }
