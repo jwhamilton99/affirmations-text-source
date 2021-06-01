@@ -177,5 +177,18 @@
 			"Take a walk outside and enjoy the fresh air."
 		],
 		"onlyShowUntil":"2021-06-20"
+	},
+	"pride month": {
+		"strings": [
+			"Happy Pride Month!",
+			"No matter your identity, you are valid.",
+			"You are so brave for just being you.",
+			"There is a huge community that loves you.",
+			"You are loved, no matter how you identify.",
+			"You are so strong for just being you.",
+			"I love who you are."
+		],
+		"onlyShowOn":"2021-06-01",
+		"onlyShowUntil":"2021-07-01"
 	}
 }
