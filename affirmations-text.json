@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-05-31-20:55",
+    "lastUpdated": "2021-06-05-19:50",
 	"appearance": {
 		"strings": [
 			"You look great today!",
@@ -178,6 +178,27 @@
 		],
 		"onlyShowUntil":"2021-06-20"
 	},
+	"summer": {
+		"strings": [
+			"Be sure to wear sunscreen!",
+			"This is the best time for outdoor activities.",
+			"Taking a swim is a great way to cool off.",
+			"Be sure to stay cool!",
+			"Remember to stay hydrated in this heat.",
+			"It's super important to stay hydrated!",
+			"Open up your windows and enjoy this summer air."
+		],
+		"onlyShowOn":"2021-06-20",
+		"onlyShowUntil":"2021-09-22"
+	},
+	"summer solstice": {
+		"strings": [
+			"Happy Solstice!",
+			"Summer is here!",
+			"It's officially summertime!"
+		],
+		"onlyShowOn":"2021-06-20"	
+	},
 	"pride month": {
 		"strings": [
 			"Happy Pride Month!",
@@ -186,7 +207,9 @@
 			"There is a huge community that loves you.",
 			"You are loved, no matter how you identify.",
 			"You are so strong for just being you.",
-			"I love who you are."
+			"I love who you are.",
+			"Remember that everybody deserves love.",
+			"Be proud of who you are!"
 		],
 		"onlyShowOn":"2021-06-01",
 		"onlyShowUntil":"2021-07-01"
