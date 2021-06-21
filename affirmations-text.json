@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-06-05-19:50",
+    "lastUpdated": "2021-06-21-13:39",
 	"appearance": {
 		"strings": [
 			"You look great today!",
@@ -121,11 +121,6 @@
 			"Your feelings are valid.",
 			"You are strong enough.",
 			"Things may seem hard, but you are going to get through it.",
-			"Take a second to tidy up your space.",
-			"A clean room feels so nice.",
-			"Do you have any dishes or cups in your room? Take a second to bring them to the kitchen.",
-			"Remember to stay hydrated.",
-			"Take sip of water! Hydration is important.",
 			"It's ok to be sad sometimes.",
 			"Your happiness is important to me.",
 			"I want you to be happy.",
@@ -184,8 +179,6 @@
 			"This is the best time for outdoor activities.",
 			"Taking a swim is a great way to cool off.",
 			"Be sure to stay cool!",
-			"Remember to stay hydrated in this heat.",
-			"It's super important to stay hydrated!",
 			"Open up your windows and enjoy this summer air."
 		],
 		"onlyShowOn":"2021-06-20",
@@ -213,5 +206,24 @@
 		],
 		"onlyShowOn":"2021-06-01",
 		"onlyShowUntil":"2021-07-01"
-	}
+	},
+	"reminders": {
+		"strings": [
+			"Take a second to tidy up your space.",
+			"A clean room feels so nice.",
+			"Do you have any dishes or cups in your room? Take a second to bring them to the kitchen.",
+			"Remember to stay hydrated.",
+			"Take sip of water! Hydration is important.",
+			"Remember to stay hydrated in this heat.",
+			"It's super important to stay hydrated!",
+			"Do you need to eat or drink something?",
+			"Check in with yourself and see if you need anything.",
+			"Are you hydrated? If not, get a drink!",
+			"Are you hungry or thirsty? Get a drink or a snack!",
+			"Have you moved in a little while?",
+			"Take a second and stretch!",
+			"Take a second and relax any tensed up muscles.",
+			"Do you feel tired? It's ok to take a rest."
+		]
+	}	
 }
