@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2021-06-21-13:39",
+    "lastUpdated": "2021-06-27-14:08",
 	"appearance": {
 		"strings": [
 			"You look great today!",
@@ -104,6 +104,15 @@
 			"Your laugh is infectious!",
 			"I want to hear you laugh more often.",
 			"You have such a great sense of adventure.",
+			"It's ok to take some time for yourself.",
+			"No matter what anyone says, I know you're doing your best.",
+			"I believe in you. You can do it!",
+			"Even though I'm far away, I still support you.",
+			"Even if things get hard, remember that you are loved.",
+			"Take a second and look at the beautiful world around you.",
+			"Look at all the stars in the sky tonight! The sky is so clear and beautiful.",
+			"You can be anything you choose!",
+			"There are so many possibilities for what you can become.",
 			"There is so much more out there for you to explore."
 		]
 	},
@@ -133,6 +142,8 @@
 			"You are so strong.",
 			"You are so brave.",
 			"Don't let the negativity get to you.",
+			"You are so capable of handling stressful situations.",
+			"You are stronger than you think.",
 			"You deserve the best life has to offer."
 		]
 	},
@@ -179,6 +190,11 @@
 			"This is the best time for outdoor activities.",
 			"Taking a swim is a great way to cool off.",
 			"Be sure to stay cool!",
+			"Summer is here! Time to do something fun!",
+			"Summer is here. Have some fun!",
+			"I love summer nights so much.",
+			"It feels good to be outside on this warm day.",
+			"It's nice to be out on this warm summer weather.",
 			"Open up your windows and enjoy this summer air."
 		],
 		"onlyShowOn":"2021-06-20",
@@ -223,6 +239,17 @@
 			"Have you moved in a little while?",
 			"Take a second and stretch!",
 			"Take a second and relax any tensed up muscles.",
+			"Are you feeling fatigued? It's ok to take a break and rest.",
+			"Are you having trouble concentrating? It's ok to take a rest.",
+			"A nap can help regain concentration.",
+			"Do you need to rest for a bit?",
+			"Take a second and catch your breath!",
+			"Be sure to breathe deeply today.",
+			"Take some time and relax your muscles.",
+			"It's time to make the bed!",
+			"Do you have any dirty laundry around? Take a minute and put it away.",
+			"Don't forget to clean out your closet!",
+			"Are there any dishes sitting around? Take a few seconds and put them in the sink.",
 			"Do you feel tired? It's ok to take a rest."
 		]
 	}	
